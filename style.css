@@ -1,0 +1,40 @@
+#menu{
+    list-style-type: none;
+    position:absolute;
+    padding-left: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+
+#list{
+padding-left: 30px;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+float: right;
+}
+
+#list:hover{
+    background-color: blue;
+}
+
+#Potter{
+height: 350px;
+width: 350px;
+}
+
+#Biggie{
+    background: linear-gradient(grey, darkgrey );
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 80px;
+}
